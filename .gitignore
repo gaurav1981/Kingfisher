@@ -80,3 +80,10 @@ fastlane/.env
 pre-change.yml
 .build
 fastlane/README.md
+/.ruby-version
+/Gemfile
+/Gemfile.lock
+/Kingfisher-TestImages
+
+.bundle/
+vendor/
